@@ -1,0 +1,4 @@
+#Tue Oct 05 01:19:58 CDT 2021
+base.0=D\:\\UT\\10mo Cuatrimestre\\Desarrollo Movil Integral\\1er Parcial\\Ejercicios\\my_personal_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

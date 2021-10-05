@@ -1,0 +1,20 @@
+{
+    "nombreApp" : "My_personal_App",
+    "rutas" : [
+        {
+            "ruta" : "pinfo",
+            "icon" : "accessibility",
+            "texto": "Información Personal"
+        },
+        {
+            "ruta" : "interest",
+            "icon" : "add_alert",
+            "texto": "Contáctame"
+        },
+        {
+            "ruta" : "cv_imagen",
+            "icon" : "folder_open",
+            "texto": "Gustos"
+        }
+    ]
+}
